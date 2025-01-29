@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import Child from "../components/child";
+import Child from "../components/Child";
 
 export default function HomePage() {
   // const { cartItems,addItemToCart } = useCart();
